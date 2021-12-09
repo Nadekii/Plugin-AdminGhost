@@ -1,0 +1,2 @@
+# Plugin-AdminGhost
+For Bukiit
